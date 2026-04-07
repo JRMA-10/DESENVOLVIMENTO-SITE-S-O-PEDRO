@@ -9,6 +9,7 @@
 --texto-escuro: #1A1A1A;
 --texto-medio: #444;
 --sombra: 0 4px 24px rgba(0,0,0,0.10);
+/* Só adicionei esse comentário para me certificar de algumas coisas */
 }
 html { scroll-behavior: smooth; }
 body { font-family: 'Lato', sans-serif; color: var(--texto-escuro); background: var(--branco); }
