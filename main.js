@@ -9,7 +9,6 @@ document.querySelectorAll('.doacoes-pix').forEach(p => p.classList.remove('visiv
 btn.classList.add('ativo');
 document.getElementById(tipo).classList.add('visivel');
 }
-// Só adicionei esse comentário para me certificar de algumas coisas
 /**
  * Simula envio do formulário de contato com feedback visual.
  * Conecte ao seu backend ou serviço de e-mail (ex: Formspree, EmailJS).
